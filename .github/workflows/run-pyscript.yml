@@ -1,4 +1,3 @@
-{
 name: Run Python Script
 
 on: [push]
@@ -18,4 +17,3 @@ jobs:
 
     - name: Run Python Script
       run: script.py
-}
